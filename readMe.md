@@ -21,3 +21,7 @@ _Arthur Edward Ortiz_
 - [ ] About us
 - [ ] Home Page
 - [ ] Consistant Branding 
+
+## Bugs
+
+- Cannont get images to load with image loader. [Managing Images With Webpac](https://www.learnhowtoprogram.com/intermediate-javascript-part-time/test-driven-development-part-2/managing-images-with-webpack)
