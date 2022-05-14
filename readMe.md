@@ -14,10 +14,10 @@ _Arthur Edward Ortiz_
 
 ## Objectives 
 
-  - [ ] Cart
-  - [ ] Credit Card Validation 
-  - [ ] Easy to Navigate Inventory 
-  - [ ] Mobile friendly UI
-  - [ ] About us
-  - [ ] Home Page
-  - [ ] Consistant Branding 
+- [ ] Cart
+- [ ] Credit Card Validation 
+- [ ] Easy to Navigate Inventory 
+- [ ] Mobile friendly UI
+- [ ] About us
+- [ ] Home Page
+- [ ] Consistant Branding 

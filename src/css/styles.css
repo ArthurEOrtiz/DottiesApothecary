@@ -1,8 +1,13 @@
 body {
+  font-family: Georgia, 'Times New Roman', Times, serif;
   color: white;
   background-color: black;
   margin: 1rem;
   padding: 1rem;
+}
+
+#indexTitle {
+  text-align: center;
 }
 
 header {
